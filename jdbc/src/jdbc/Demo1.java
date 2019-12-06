@@ -2,7 +2,13 @@ package jdbc;
 
 import java.sql.*;
 /*
- * Simple connection.
+ * 1. Load the Driver class
+ * 2. get the connection
+ * 3. Create statement
+ * 4. Execute query
+ * 5. Get the result set
+ * 6. Retrieve the result from ResultSet
+ * 7. close the connection
  * */
 public class Demo1 {
 
