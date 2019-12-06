@@ -1,7 +1,9 @@
 package jdbc;
 
 import java.sql.*;
-
+/*
+ * Simple connection.
+ * */
 public class Demo1 {
 
 	public static void main(String[] args) throws ClassNotFoundException {
